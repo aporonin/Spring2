@@ -1,0 +1,7 @@
+com\capgemini\chess\service\mapper\UserProfileMapper.class
+com\capgemini\chess\ChessApplication.class
+com\capgemini\chess\batch\ScheduledTimeReport.class
+com\capgemini\chess\service\to\UserProfileTO.class
+com\capgemini\chess\dataaccess\entities\UserEntity.class
+com\capgemini\chess\service\impl\UserServiceImpl.class
+com\capgemini\chess\service\UserService.class
