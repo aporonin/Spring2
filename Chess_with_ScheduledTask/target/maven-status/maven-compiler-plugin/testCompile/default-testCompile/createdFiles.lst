@@ -1,4 +1,0 @@
-com\capgemini\chess\AllTests.class
-com\capgemini\chess\service\ServiceTestSuite.class
-com\capgemini\chess\service\UserServiceTest$RankServiceTestContextConfiguration.class
-com\capgemini\chess\service\UserServiceTest.class
